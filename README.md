@@ -1,5 +1,5 @@
 # Đây là code C file "a" để demo asdga4tret
-
+Link hướng dẫn <https://gemini.google.com/share/e7f96398e597>
 ## Các bước đẩy file lên github
 
 - Viết file
