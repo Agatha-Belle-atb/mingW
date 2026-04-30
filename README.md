@@ -1,5 +1,5 @@
 # Đây là *quá trình* học git và github
-Link hướng dẫn <https://gemini.google.com/share/e7f96398e597>
+Link hướng dẫn <https://gemini.google.com/share/67ab2524a7c2>
 
 ## Các bước đẩy file lên github
 ### Liên kết với github
