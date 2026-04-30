@@ -8,5 +8,6 @@ int main(){
     printf("a = b",2==a);
     int b = 10;
     printf("hahahaha b = %d",b);
+    printf("luu duoc chua b = %d",b);
     return 0;
 }

@@ -2,3 +2,4 @@
 ## code a khá hieu
 - những thay đổi mà chúng ta ko bt
 - khong thay doi
+- "C:\Users\Administrator\.gitconfig"
