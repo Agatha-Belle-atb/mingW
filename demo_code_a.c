@@ -7,7 +7,7 @@ int main(){
     printf("a = %d",a);
     printf("a = b",2==a);
     int b = 10;
-    printf("hahahaha b = %d",b);
+    printf("kiki b = %d",b);
     printf("luu duoc chua b = %d",b);
     //them bien ii
     int n,f;
