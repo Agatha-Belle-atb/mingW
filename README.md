@@ -12,6 +12,7 @@
 - khong thay doi
 
 ## Khi muốn xoá liên kết mật khẩu  
+- `git config --global --unset credential.helper`
 - "C:\Users\Administrator\.gitconfig"
 
 ## Đã thêm nhánh Dev01 
