@@ -1,4 +1,4 @@
 # Đây là code C file "a" để demo asdga4tret
-## code a khá dễ hiểu ftyui56y43 y
+## code a khá hieu
 - những thay đổi mà chúng ta ko bt
-- da thay doi vaf save asfdsf
+- khong thay doi

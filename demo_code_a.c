@@ -7,6 +7,6 @@ int main(){
     printf("a = %d",a);
     printf("a = b",2==a);
     int b = 10;
-    printf("da thay fdsgdfsg doi ban biet int b = %d",b);
+    printf("hahahaha b = %d",b);
     return 0;
 }
