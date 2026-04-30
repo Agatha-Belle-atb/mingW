@@ -6,5 +6,7 @@ int main(){
     scanf("%d",&a);
     printf("a = %d",a);
     printf("a = b",2==a);
+    int b = 10;
+    printf("neu ban biet int b = %d",b);
     return 0;
 }
